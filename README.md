@@ -5,7 +5,7 @@ Creating ASCII art from images
 ![Alt text](/../master/ui.png?raw=true "User Interface")
 - **LOAD IMAGE** opens the file dialog
 - **WRITE TO FILE** redirects the output stream to a file created in the same directory as an original image.
-- **SCALE** sets the scale of the output image. Setting the scale to N generates output where one char represents N*N pixels.
+- **SCALE** sets the scale of the output image. Setting the scale to $N$ generates output where one char represents $N\times N$ pixels.
 - **GETPIXEL** performs the conversion using C# `getPixel()` function
 - **BMPDATA** performs the conversion operating on raw BMP data which makes it significantly faster than `getPixel()`.
 
