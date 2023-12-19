@@ -13,4 +13,4 @@ Creating ASCII art from images
 ![Alt text](/../master/mustang_1-5.png?raw=true "Generated with scale 5")
 
 ## ASCII generated with scale 10
-![Alt text](/../master/mustang_1-10png?raw=true "Generated with scale 10")
+![Alt text](/../master/mustang_1-10.png?raw=true "Generated with scale 10")
